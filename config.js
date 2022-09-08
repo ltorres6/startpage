@@ -139,7 +139,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
+					name: 'Peanuts',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
