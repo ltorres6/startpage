@@ -12,9 +12,9 @@ const CONFIG = {
 
 	// General
 	name: 'Luis',
-	imageBackground: false,
-	openInNewTab: true,
-	twelveHourFormat: false,
+	imageBackground: true,
+	openInNewTab: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
