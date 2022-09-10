@@ -139,43 +139,58 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					icon: 'activity',
 					name: 'Reddit',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.reddit.com/r/popular/',
 				},
 				{
 					name: 'Facebook',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.facebook.com',
 				},
 				{
 					name: 'Instagram',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.instagram.com',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'LuigiBytes',
+					link: 'https://www.LuigiBytes.com',
+				},
+				{
+					name: 'Youtube Music',
+					link: 'https://www.youtube.com/watch?v=oMOnT5sBi3I',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'wallet',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'WellsFargo',
+					link: 'https://www.wellsfargo.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Chase',
+					link: 'https://www.chase.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'BankofAmerica',
+					link: 'https://www.bankofamerica.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'AmericanExpress',
+					link: 'https://www.americanexpress.com',
+				},
+				{
+					name: 'Discover',
+					link: 'https://www.discover.com',
+				},
+				{
+					name: 'US-Bank',
+					link: 'https://www.usbank.com',
+				},
+				{
+					name: 'CapitalOne',
+					link: 'https://www.capitalone.com',
 				},
 			],
 		},
